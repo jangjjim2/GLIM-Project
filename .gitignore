@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+/.vs/Glim Test/FileContentIndex
+/.vs
+/1번과제/MFCApplication1/.vs/MFCApplication1
