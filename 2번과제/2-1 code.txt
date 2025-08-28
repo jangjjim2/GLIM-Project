@@ -1,0 +1,11 @@
+#include <string>
+#include <vector>
+
+#define food_price 12000
+#define drink_price 2000
+
+using namespace std;
+
+int solution(int n, int k) {
+    return food_price*n + drink_price*(k-n/10);
+}
